@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\bin\Debug\netcoreapp2.2\nome_salario_codigo.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\bin\Debug\netcoreapp2.2\nome_salario_codigo.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\bin\Debug\netcoreapp2.2\nome_salario_codigo.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\bin\Debug\netcoreapp2.2\nome_salario_codigo.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\bin\Debug\netcoreapp2.2\nome_salario_codigo.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\obj\Debug\netcoreapp2.2\nome_salario_codigo.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\obj\Debug\netcoreapp2.2\nome_salario_codigo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\obj\Debug\netcoreapp2.2\nome_salario_codigo.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\obj\Debug\netcoreapp2.2\nome_salario_codigo.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\obj\Debug\netcoreapp2.2\nome_salario_codigo.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\nome_salario_codigo\obj\Debug\netcoreapp2.2\nome_salario_codigo.pdb

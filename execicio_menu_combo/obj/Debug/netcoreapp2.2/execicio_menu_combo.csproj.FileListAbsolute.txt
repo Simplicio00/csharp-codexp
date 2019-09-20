@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\bin\Debug\netcoreapp2.2\execicio_menu_combo.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\bin\Debug\netcoreapp2.2\execicio_menu_combo.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\bin\Debug\netcoreapp2.2\execicio_menu_combo.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\bin\Debug\netcoreapp2.2\execicio_menu_combo.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\bin\Debug\netcoreapp2.2\execicio_menu_combo.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\obj\Debug\netcoreapp2.2\execicio_menu_combo.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\obj\Debug\netcoreapp2.2\execicio_menu_combo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\obj\Debug\netcoreapp2.2\execicio_menu_combo.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\obj\Debug\netcoreapp2.2\execicio_menu_combo.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\obj\Debug\netcoreapp2.2\execicio_menu_combo.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\execicio_menu_combo\obj\Debug\netcoreapp2.2\execicio_menu_combo.pdb

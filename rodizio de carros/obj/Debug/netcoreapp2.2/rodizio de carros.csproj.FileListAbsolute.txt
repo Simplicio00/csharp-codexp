@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\obj\Debug\netcoreapp2.2\rodizio de carros.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\obj\Debug\netcoreapp2.2\rodizio de carros.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\obj\Debug\netcoreapp2.2\rodizio de carros.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\obj\Debug\netcoreapp2.2\rodizio de carros.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\bin\Debug\netcoreapp2.2\rodizio de carros.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\bin\Debug\netcoreapp2.2\rodizio de carros.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\bin\Debug\netcoreapp2.2\rodizio de carros.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\bin\Debug\netcoreapp2.2\rodizio de carros.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\bin\Debug\netcoreapp2.2\rodizio de carros.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\obj\Debug\netcoreapp2.2\rodizio de carros.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\rodizio de carros\obj\Debug\netcoreapp2.2\rodizio de carros.pdb

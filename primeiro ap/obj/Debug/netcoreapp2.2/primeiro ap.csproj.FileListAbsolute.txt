@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\bin\Debug\netcoreapp2.2\primeiro ap.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\bin\Debug\netcoreapp2.2\primeiro ap.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\bin\Debug\netcoreapp2.2\primeiro ap.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\bin\Debug\netcoreapp2.2\primeiro ap.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\bin\Debug\netcoreapp2.2\primeiro ap.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\obj\Debug\netcoreapp2.2\primeiro ap.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\obj\Debug\netcoreapp2.2\primeiro ap.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\obj\Debug\netcoreapp2.2\primeiro ap.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\obj\Debug\netcoreapp2.2\primeiro ap.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\obj\Debug\netcoreapp2.2\primeiro ap.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\obj\Debug\netcoreapp2.2\primeiro ap.pdb

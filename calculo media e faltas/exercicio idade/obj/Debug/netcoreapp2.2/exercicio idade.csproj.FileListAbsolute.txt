@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\obj\Debug\netcoreapp2.2\exercicio idade.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\obj\Debug\netcoreapp2.2\exercicio idade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\obj\Debug\netcoreapp2.2\exercicio idade.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\obj\Debug\netcoreapp2.2\exercicio idade.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\bin\Debug\netcoreapp2.2\exercicio idade.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\bin\Debug\netcoreapp2.2\exercicio idade.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\bin\Debug\netcoreapp2.2\exercicio idade.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\bin\Debug\netcoreapp2.2\exercicio idade.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\bin\Debug\netcoreapp2.2\exercicio idade.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\obj\Debug\netcoreapp2.2\exercicio idade.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\calculo media e faltas\exercicio idade\obj\Debug\netcoreapp2.2\exercicio idade.pdb

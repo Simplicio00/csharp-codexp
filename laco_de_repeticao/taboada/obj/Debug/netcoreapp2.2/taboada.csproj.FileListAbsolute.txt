@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\obj\Debug\netcoreapp2.2\taboada.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\obj\Debug\netcoreapp2.2\taboada.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\obj\Debug\netcoreapp2.2\taboada.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\obj\Debug\netcoreapp2.2\taboada.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\bin\Debug\netcoreapp2.2\taboada.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\bin\Debug\netcoreapp2.2\taboada.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\bin\Debug\netcoreapp2.2\taboada.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\bin\Debug\netcoreapp2.2\taboada.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\bin\Debug\netcoreapp2.2\taboada.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\obj\Debug\netcoreapp2.2\taboada.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\laco_de_repeticao\taboada\obj\Debug\netcoreapp2.2\taboada.pdb

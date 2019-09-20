@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\bin\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\bin\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\bin\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\bin\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\bin\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\obj\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\obj\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\obj\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\obj\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\obj\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\passageiro-nome-origem-destino-data\obj\Debug\netcoreapp2.2\passageiro-nome-origem-destino-data.pdb

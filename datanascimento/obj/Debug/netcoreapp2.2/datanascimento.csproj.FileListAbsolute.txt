@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\bin\Debug\netcoreapp2.2\datanascimento.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\bin\Debug\netcoreapp2.2\datanascimento.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\bin\Debug\netcoreapp2.2\datanascimento.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\bin\Debug\netcoreapp2.2\datanascimento.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\bin\Debug\netcoreapp2.2\datanascimento.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\obj\Debug\netcoreapp2.2\datanascimento.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\obj\Debug\netcoreapp2.2\datanascimento.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\obj\Debug\netcoreapp2.2\datanascimento.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\obj\Debug\netcoreapp2.2\datanascimento.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\obj\Debug\netcoreapp2.2\datanascimento.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\datanascimento\obj\Debug\netcoreapp2.2\datanascimento.pdb

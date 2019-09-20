@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\obj\Debug\netcoreapp2.2\validacao.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\obj\Debug\netcoreapp2.2\validacao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\obj\Debug\netcoreapp2.2\validacao.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\obj\Debug\netcoreapp2.2\validacao.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\bin\Debug\netcoreapp2.2\validacao.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\bin\Debug\netcoreapp2.2\validacao.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\bin\Debug\netcoreapp2.2\validacao.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\bin\Debug\netcoreapp2.2\validacao.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\bin\Debug\netcoreapp2.2\validacao.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\obj\Debug\netcoreapp2.2\validacao.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\validacao\obj\Debug\netcoreapp2.2\validacao.pdb

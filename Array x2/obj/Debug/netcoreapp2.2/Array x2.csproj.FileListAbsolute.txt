@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\obj\Debug\netcoreapp2.2\Array x2.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\obj\Debug\netcoreapp2.2\Array x2.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\obj\Debug\netcoreapp2.2\Array x2.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\obj\Debug\netcoreapp2.2\Array x2.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\bin\Debug\netcoreapp2.2\Array x2.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\bin\Debug\netcoreapp2.2\Array x2.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\bin\Debug\netcoreapp2.2\Array x2.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\bin\Debug\netcoreapp2.2\Array x2.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\bin\Debug\netcoreapp2.2\Array x2.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\obj\Debug\netcoreapp2.2\Array x2.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\Array x2\obj\Debug\netcoreapp2.2\Array x2.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\obj\Debug\netcoreapp2.2\calculo de media.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\obj\Debug\netcoreapp2.2\calculo de media.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\obj\Debug\netcoreapp2.2\calculo de media.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\obj\Debug\netcoreapp2.2\calculo de media.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\bin\Debug\netcoreapp2.2\calculo de media.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\bin\Debug\netcoreapp2.2\calculo de media.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\bin\Debug\netcoreapp2.2\calculo de media.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\bin\Debug\netcoreapp2.2\calculo de media.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\bin\Debug\netcoreapp2.2\calculo de media.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\obj\Debug\netcoreapp2.2\calculo de media.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\primeiro ap\calculo de media\obj\Debug\netcoreapp2.2\calculo de media.pdb

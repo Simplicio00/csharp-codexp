@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\obj\Debug\netcoreapp2.2\lista de co.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\obj\Debug\netcoreapp2.2\lista de co.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\obj\Debug\netcoreapp2.2\lista de co.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\obj\Debug\netcoreapp2.2\lista de co.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\bin\Debug\netcoreapp2.2\lista de co.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\bin\Debug\netcoreapp2.2\lista de co.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\bin\Debug\netcoreapp2.2\lista de co.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\bin\Debug\netcoreapp2.2\lista de co.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\bin\Debug\netcoreapp2.2\lista de co.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\obj\Debug\netcoreapp2.2\lista de co.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\lista de co\obj\Debug\netcoreapp2.2\lista de co.pdb

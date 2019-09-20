@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\obj\Debug\netcoreapp2.2\elseif.csprojAssemblyReference.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\obj\Debug\netcoreapp2.2\elseif.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\obj\Debug\netcoreapp2.2\elseif.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\obj\Debug\netcoreapp2.2\elseif.AssemblyInfo.cs
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\bin\Debug\netcoreapp2.2\elseif.deps.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\bin\Debug\netcoreapp2.2\elseif.runtimeconfig.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\bin\Debug\netcoreapp2.2\elseif.runtimeconfig.dev.json
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\bin\Debug\netcoreapp2.2\elseif.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\bin\Debug\netcoreapp2.2\elseif.pdb
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\obj\Debug\netcoreapp2.2\elseif.dll
+C:\Users\fic\Documents\CODEXP\PROJ\C#\elseif\obj\Debug\netcoreapp2.2\elseif.pdb
