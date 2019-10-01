@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\cadastro-mvc\bin\Debug\netcoreapp2.2\cadastro-mvc.deps.json
+C:\Users\fic\Desktop\C#\cadastro-mvc\bin\Debug\netcoreapp2.2\cadastro-mvc.runtimeconfig.json
+C:\Users\fic\Desktop\C#\cadastro-mvc\bin\Debug\netcoreapp2.2\cadastro-mvc.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\cadastro-mvc\bin\Debug\netcoreapp2.2\cadastro-mvc.dll
+C:\Users\fic\Desktop\C#\cadastro-mvc\bin\Debug\netcoreapp2.2\cadastro-mvc.pdb
+C:\Users\fic\Desktop\C#\cadastro-mvc\obj\Debug\netcoreapp2.2\cadastro-mvc.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\cadastro-mvc\obj\Debug\netcoreapp2.2\cadastro-mvc.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\cadastro-mvc\obj\Debug\netcoreapp2.2\cadastro-mvc.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\cadastro-mvc\obj\Debug\netcoreapp2.2\cadastro-mvc.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\cadastro-mvc\obj\Debug\netcoreapp2.2\cadastro-mvc.dll
+C:\Users\fic\Desktop\C#\cadastro-mvc\obj\Debug\netcoreapp2.2\cadastro-mvc.pdb

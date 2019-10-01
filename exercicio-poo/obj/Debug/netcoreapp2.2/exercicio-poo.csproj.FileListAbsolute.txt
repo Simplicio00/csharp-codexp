@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\exercicio-poo\bin\Debug\netcoreapp2.2\exercicio-poo.deps.json
+C:\Users\fic\Desktop\C#\exercicio-poo\bin\Debug\netcoreapp2.2\exercicio-poo.runtimeconfig.json
+C:\Users\fic\Desktop\C#\exercicio-poo\bin\Debug\netcoreapp2.2\exercicio-poo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\exercicio-poo\bin\Debug\netcoreapp2.2\exercicio-poo.dll
+C:\Users\fic\Desktop\C#\exercicio-poo\bin\Debug\netcoreapp2.2\exercicio-poo.pdb
+C:\Users\fic\Desktop\C#\exercicio-poo\obj\Debug\netcoreapp2.2\exercicio-poo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\exercicio-poo\obj\Debug\netcoreapp2.2\exercicio-poo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\exercicio-poo\obj\Debug\netcoreapp2.2\exercicio-poo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\exercicio-poo\obj\Debug\netcoreapp2.2\exercicio-poo.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\exercicio-poo\obj\Debug\netcoreapp2.2\exercicio-poo.dll
+C:\Users\fic\Desktop\C#\exercicio-poo\obj\Debug\netcoreapp2.2\exercicio-poo.pdb

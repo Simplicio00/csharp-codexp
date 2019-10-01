@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\atrib\bin\Debug\netcoreapp2.2\atrib.deps.json
+C:\Users\fic\Desktop\C#\atrib\bin\Debug\netcoreapp2.2\atrib.runtimeconfig.json
+C:\Users\fic\Desktop\C#\atrib\bin\Debug\netcoreapp2.2\atrib.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\atrib\bin\Debug\netcoreapp2.2\atrib.dll
+C:\Users\fic\Desktop\C#\atrib\bin\Debug\netcoreapp2.2\atrib.pdb
+C:\Users\fic\Desktop\C#\atrib\obj\Debug\netcoreapp2.2\atrib.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\atrib\obj\Debug\netcoreapp2.2\atrib.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\atrib\obj\Debug\netcoreapp2.2\atrib.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\atrib\obj\Debug\netcoreapp2.2\atrib.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\atrib\obj\Debug\netcoreapp2.2\atrib.dll
+C:\Users\fic\Desktop\C#\atrib\obj\Debug\netcoreapp2.2\atrib.pdb

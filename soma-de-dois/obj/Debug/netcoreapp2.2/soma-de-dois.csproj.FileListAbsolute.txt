@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\obj\Debug\netcoreapp2.2\soma-de-dois.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\obj\Debug\netcoreapp2.2\soma-de-dois.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\obj\Debug\netcoreapp2.2\soma-de-dois.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\obj\Debug\netcoreapp2.2\soma-de-dois.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\bin\Debug\netcoreapp2.2\soma-de-dois.deps.json
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\bin\Debug\netcoreapp2.2\soma-de-dois.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\bin\Debug\netcoreapp2.2\soma-de-dois.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\bin\Debug\netcoreapp2.2\soma-de-dois.dll
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\bin\Debug\netcoreapp2.2\soma-de-dois.pdb
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\obj\Debug\netcoreapp2.2\soma-de-dois.dll
+C:\Users\fic\Desktop\csharp-codexp\soma-de-dois\obj\Debug\netcoreapp2.2\soma-de-dois.pdb

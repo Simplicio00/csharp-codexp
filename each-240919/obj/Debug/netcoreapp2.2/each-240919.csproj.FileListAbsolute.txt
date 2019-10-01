@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\each-240919\bin\Debug\netcoreapp2.2\each-240919.deps.json
+C:\Users\fic\Desktop\C#\each-240919\bin\Debug\netcoreapp2.2\each-240919.runtimeconfig.json
+C:\Users\fic\Desktop\C#\each-240919\bin\Debug\netcoreapp2.2\each-240919.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\each-240919\bin\Debug\netcoreapp2.2\each-240919.dll
+C:\Users\fic\Desktop\C#\each-240919\bin\Debug\netcoreapp2.2\each-240919.pdb
+C:\Users\fic\Desktop\C#\each-240919\obj\Debug\netcoreapp2.2\each-240919.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\each-240919\obj\Debug\netcoreapp2.2\each-240919.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\each-240919\obj\Debug\netcoreapp2.2\each-240919.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\each-240919\obj\Debug\netcoreapp2.2\each-240919.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\each-240919\obj\Debug\netcoreapp2.2\each-240919.dll
+C:\Users\fic\Desktop\C#\each-240919\obj\Debug\netcoreapp2.2\each-240919.pdb

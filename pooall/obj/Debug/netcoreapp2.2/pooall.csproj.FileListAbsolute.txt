@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\pooall\bin\Debug\netcoreapp2.2\pooall.deps.json
+C:\Users\fic\Desktop\csharp-codexp\pooall\bin\Debug\netcoreapp2.2\pooall.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\pooall\bin\Debug\netcoreapp2.2\pooall.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\pooall\bin\Debug\netcoreapp2.2\pooall.dll
+C:\Users\fic\Desktop\csharp-codexp\pooall\bin\Debug\netcoreapp2.2\pooall.pdb
+C:\Users\fic\Desktop\csharp-codexp\pooall\obj\Debug\netcoreapp2.2\pooall.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\pooall\obj\Debug\netcoreapp2.2\pooall.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\pooall\obj\Debug\netcoreapp2.2\pooall.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\pooall\obj\Debug\netcoreapp2.2\pooall.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\pooall\obj\Debug\netcoreapp2.2\pooall.dll
+C:\Users\fic\Desktop\csharp-codexp\pooall\obj\Debug\netcoreapp2.2\pooall.pdb

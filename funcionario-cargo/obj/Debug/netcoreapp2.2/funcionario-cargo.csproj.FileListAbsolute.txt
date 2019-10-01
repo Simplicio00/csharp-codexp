@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\funcionario-cargo\bin\Debug\netcoreapp2.2\funcionario-cargo.deps.json
+C:\Users\fic\Desktop\C#\funcionario-cargo\bin\Debug\netcoreapp2.2\funcionario-cargo.runtimeconfig.json
+C:\Users\fic\Desktop\C#\funcionario-cargo\bin\Debug\netcoreapp2.2\funcionario-cargo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\funcionario-cargo\bin\Debug\netcoreapp2.2\funcionario-cargo.dll
+C:\Users\fic\Desktop\C#\funcionario-cargo\bin\Debug\netcoreapp2.2\funcionario-cargo.pdb
+C:\Users\fic\Desktop\C#\funcionario-cargo\obj\Debug\netcoreapp2.2\funcionario-cargo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\funcionario-cargo\obj\Debug\netcoreapp2.2\funcionario-cargo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\funcionario-cargo\obj\Debug\netcoreapp2.2\funcionario-cargo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\funcionario-cargo\obj\Debug\netcoreapp2.2\funcionario-cargo.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\funcionario-cargo\obj\Debug\netcoreapp2.2\funcionario-cargo.dll
+C:\Users\fic\Desktop\C#\funcionario-cargo\obj\Debug\netcoreapp2.2\funcionario-cargo.pdb
